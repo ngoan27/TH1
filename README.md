@@ -1,15 +1,15 @@
-Mô tả ngắn gọn bài thực hành và trích dẫn nguồn AI
-Phần 1: Cấu hình Phần cứng/Phần mềm với Hỗ trợ AI 
-  Nhiệm vụ 1.1: Tìm hiểu cấu hình phần cứng
-    - Mở trình duyệt, truy cập Google Bard.
-    - Nhập prompt: “Giải thích thông số CPU, RAM, ổ cứng của máy tính Windows 10 và cách kiểm tra chúng.”
-    - Dựa trên câu trả lời AI, sử dụng công cụ hệ thống (Task Manager trên Windows hoặc System Information) để kiểm tra thông số phần cứng của máy tính.
-    - Ghi lại thông số (CPU model, RAM dung lượng, loại ổ cứng: HDD/SSD) vào file Word/Google Docs.
-  Nhiệm vụ 1.2: Cấu hình phần mềm cơ bản
-    - Truy cập Google Bard, nhập prompt: “Hướng dẫn chi tiết cài đặt Notepad++ trên Windows 10 và cấu hình để viết code Python.”
-    - Làm theo hướng dẫn AI: 
-    1.	Cài đặt Notepad++
-      Bước 1: Tải file cài đặt
+Mô tả ngắn gọn bài thực hành và trích dẫn nguồn AI  
+Phần 1: Cấu hình Phần cứng/Phần mềm với Hỗ trợ AI   
+  Nhiệm vụ 1.1: Tìm hiểu cấu hình phần cứng  
+    - Mở trình duyệt, truy cập Google Bard.  
+    - Nhập prompt: “Giải thích thông số CPU, RAM, ổ cứng của máy tính Windows 10 và cách kiểm tra chúng.”  
+    - Dựa trên câu trả lời AI, sử dụng công cụ hệ thống (Task Manager trên Windows hoặc System Information) để kiểm tra thông số phần cứng của máy tính.  
+    - Ghi lại thông số (CPU model, RAM dung lượng, loại ổ cứng: HDD/SSD) vào file Word/Google Docs.  
+  Nhiệm vụ 1.2: Cấu hình phần mềm cơ bản  
+    - Truy cập Google Bard, nhập prompt: “Hướng dẫn chi tiết cài đặt Notepad++ trên Windows 10 và cấu hình để viết code Python.”  
+    - Làm theo hướng dẫn AI:   
+    1.	Cài đặt Notepad++  
+      Bước 1: Tải file cài đặt  
       -	Truy cập trang web chính thức của Notepad++: https://notepad-plus-plus.org/downloads/.
       -	Chọn phiên bản Installer (thường là 64-bit x64 cho Windows 10 hiện đại) và nhấn Download.
       -	Lưu file cài đặt (file .exe) vào một thư mục trên máy tính.
