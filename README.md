@@ -79,4 +79,4 @@ Hướng dẫn thực hiện:
  - Viết đoạn văn ngắn (100-150 từ) trả lời câu hỏi: “Làm thế nào để sử dụng Canva AI một cách minh bạch và đạo đức?”
  - Gợi ý: Ghi nguồn AI, không sử dụng nội dung để lan truyền thông tin sai lệch, kiểm tra bản quyền hình ảnh.
  - Lưu đoạn văn vào file Word và đẩy lên GitHub cùng với infographic.
-
+===
